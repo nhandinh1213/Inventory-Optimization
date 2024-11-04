@@ -1,6 +1,5 @@
 # Inventory-Optimization
 This project focus on enhance Inventory Performance from purchase to sales activities including inventory analysis, sales demand forecasting, purchase analysis and carrying cost analysis
-#Project Overview 
 ## Business problems
 Retail enterprises face a critical challenge in optimizing inventory ordering decisions to ensure product availability while minimizing storage costs. Ineffective inventory management can lead to increased stockouts, resulting in lost sales and diminished customer loyalty, or excess inventory, which incurs higher holding costs and potential obsolescence. The complexity is further intensified by the need to accurately forecast demand using diverse data sources and adapt to real-time market fluctuations. Retailers must balance reorder points, lead times, and Economic Order Quantity (EOQ) to achieve cost efficiency and customer satisfaction. Advanced forecasting techniques and collaborative supply chain strategies are essential to address these challenges and optimize the inventory ordering process.
 ## Business Objective
